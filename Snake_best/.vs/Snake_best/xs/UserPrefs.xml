@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{830575E5-40E7-4D1A-8E16-13BD8E956899}|Default">
-  <MonoDevelop.Ide.ItemProperties.Snake__best FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Snake__best PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Snake_best/Program.cs">
     <Files>
-      <File FileName="Snake_best/Program.cs" Line="10" Column="16" />
+      <File FileName="Snake_best/Program.cs" Line="10" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
