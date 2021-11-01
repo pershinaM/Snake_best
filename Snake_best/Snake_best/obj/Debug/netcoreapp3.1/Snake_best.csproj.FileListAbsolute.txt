@@ -1,0 +1,13 @@
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/bin/Debug/netcoreapp3.1/Snake_best.deps.json
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/bin/Debug/netcoreapp3.1/Snake_best.runtimeconfig.json
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/bin/Debug/netcoreapp3.1/Snake_best.runtimeconfig.dev.json
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/bin/Debug/netcoreapp3.1/Snake_best.dll
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/bin/Debug/netcoreapp3.1/Snake_best.pdb
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/obj/Debug/netcoreapp3.1/Snake_best.csproj.AssemblyReference.cache
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/obj/Debug/netcoreapp3.1/Snake_best.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/obj/Debug/netcoreapp3.1/Snake_best.AssemblyInfoInputs.cache
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/obj/Debug/netcoreapp3.1/Snake_best.AssemblyInfo.cs
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/obj/Debug/netcoreapp3.1/Snake_best.csproj.CoreCompileInputs.cache
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/obj/Debug/netcoreapp3.1/Snake_best.dll
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/obj/Debug/netcoreapp3.1/Snake_best.pdb
+/Users/Mariia/Documents/Snake_best/Snake_best/Snake_best/obj/Debug/netcoreapp3.1/Snake_best.genruntimeconfig.cache
