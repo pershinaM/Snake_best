@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{830575E5-40E7-4D1A-8E16-13BD8E956899}|Default">
+  <MonoDevelop.Ide.ItemProperties.Snake__best PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Snake_best/Point.cs">
+    <Files>
+      <File FileName="Snake_best/Program.cs" Line="15" Column="58" />
+      <File FileName="Snake_best/Point.cs" Line="19" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Snake_best" expanded="True">
+            <Node name="Snake_best" expanded="True">
+              <Node name="Point.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
